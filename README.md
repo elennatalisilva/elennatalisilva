@@ -1,6 +1,6 @@
 Hi!!💻🚀
 
-Atualmente sou estudante desenvolvimento FullStack Pró no Dev Club. 
+Atualmente sou estudante desenvolvimento Web FullStack Pró no Dev Club. 
 
 Estudo ADS pela Uniffacamp🎓
 
