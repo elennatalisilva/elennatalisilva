@@ -9,7 +9,7 @@ apurado senso de organização, responsabilidade, dinamismo e determinação, me
 fazer sempre o meu melhor.
 
 Atualmente estou aprendendo a Desenvolver, analisar, projetar, implementar e atualizar sistemas de 
-informação para diversos setores de atividades na __Unifaccamp.__ Tecnologia: Python.<br>
+informação para diversos setores de atividades na __Unifaccamp.__ Tecnologia: Python.<br><br>
 Habilidades aprendidas no curso __DevClub__: JavaScript, HTML, CSS, Git, GitHub, Node, React, lógica de 
 programação
 
