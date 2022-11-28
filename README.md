@@ -1,13 +1,15 @@
 Hi!!💻🚀
 
-Atualmente sou estudante desenvolvimento Web FullStack Pró no Dev Club. 
+Atualmente estou cursando o 2º semestre em Análise e Desenvolvimento de Sistemas. 
+Tenho conhecimento nas tecnologias: Python|HTML|CSS|Git e GitHub|Javascript|Node|React. 
+Quero aprender as linguagens mais usadas para automatizar testes. Espero no futuro poder ser 
+especialista em testes automatizados, pois tenho muita facilidade em aprender/executar. 
+Estou aberta a novos desafios profissionais, buscando uma efetivação no mercado. Possuo 
+apurado senso de organização, responsabilidade, dinamismo e determinação, me comprometo a 
+fazer sempre o meu melhor.
 
-Estudo ADS pela Uniffacamp🎓
-
-Sou programadora Front end atualmente estou aprendendo e criando projetos com as tecnologias: 
-HTML , CSS e iniciando o aprendizado de JavaScript e React com Mentor Rodolfo Mori 🎓
-
-Próximos passos: Estudar Back end e realizar projetos de qualidade e alta preformace com React, NodeJs e banco de dados.
+***"Toda Conquista começa com a decisão de tentar"***
+***"Todo conhecimento é bem vindo"!***
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Élen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
