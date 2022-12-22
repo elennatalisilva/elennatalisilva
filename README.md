@@ -1,12 +1,11 @@
 Hi!!💻🚀
-
-Atualmente estou cursando o 2º semestre em __Análise e Desenvolvimento de Sistemas.__<br>
-Tenho conhecimento nas tecnologias: __Python|HTML|CSS|Git e GitHub|Javascript|Node|React.__<br> 
-Quero aprender as linguagens mais usadas para automatizar testes.<br>Espero no futuro poder ser 
-especialista em testes automatizados, pois tenho muita facilidade em aprender/executar.<br> 
-Estou aberta a novos desafios profissionais, buscando uma efetivação no mercado.<br>Possuo 
-apurado senso de organização, responsabilidade, dinamismo e determinação, me comprometo a 
-fazer sempre o meu melhor.
+ 
+Atualmente estou cursando o 3° semestre em __Análise e Desenvolvimento de Sistemas__. <br>
+Desenvolvo aplicações com as tecnologias: __HTML|CSS|Git e GitHub|Javascript|Node|React__, <br>
+exercitando aplicações responsivas. <br>
+Estou aberta a novos desafios profissionais como desenvolvedora Front-End, <br>
+buscando uma efetivação no mercado. Possuo apurado senso de organização, responsabilidade, <br>
+dinamismo e determinação, me comprometo a fazer sempre o meu melhor.
 
 Atualmente estou aprendendo a Desenvolver, analisar, projetar, implementar e atualizar sistemas de 
 informação para diversos setores de atividades na __Unifaccamp.__ Tecnologia: Python.<br><br>
