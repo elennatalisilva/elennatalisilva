@@ -1,16 +1,8 @@
 Hi!!💻🚀
  
-Atualmente estou cursando o 3° semestre em __Análise e Desenvolvimento de Sistemas__. <br>
-Desenvolvo aplicações com as tecnologias: __HTML|CSS|Git e GitHub|Javascript|Node|React__, <br>
-exercitando aplicações responsivas. <br>
-Estou aberta a novos desafios profissionais como desenvolvedora Front-End, <br>
-buscando uma efetivação no mercado. Possuo apurado senso de organização, responsabilidade, <br>
-dinamismo e determinação, me comprometo a fazer sempre o meu melhor.
+Estudante de Análise e Desenvolvimento de Sistemas pela UNIFAEL, com interesse em Testes de Software (QA) e Garantia da Qualidade. Possuo perfil analítico, atenção aos detalhes, facilidade de aprendizado e comprometimento com a entrega de soluções de qualidade. Busco uma oportunidade para desenvolver minha carreira na área de QA, aplicando conhecimentos em testes manuais, validação de funcionalidades e identificação de bugs.
 
-Atualmente estou aprendendo a Desenvolver, analisar, projetar, implementar e atualizar sistemas de 
-informação para diversos setores de atividades na __Unifaccamp.__ Tecnologia: Python.<br><br>
-Habilidades aprendidas no curso __DevClub__: JavaScript, HTML, CSS, Git, GitHub, Node, React, lógica de 
-programação
+
 
 ***"Toda Conquista começa com a decisão de tentar"***
 ***"Todo conhecimento é bem vindo"!***
