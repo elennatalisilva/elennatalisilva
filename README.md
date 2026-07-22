@@ -10,7 +10,7 @@
 
 ## 📌 Sobre Mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas **.
 - 🔭 Atualmente aplicando testes e qualidade em sistemas web (**React / Firebase**).
 - 🧪 Desenvolvendo suítes de **testes automatizados E2E** com **Playwright**.
 - 🔍 Praticando testes funcionais, identificação de regras de negócio e report de bugs.
