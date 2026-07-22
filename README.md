@@ -1,5 +1,6 @@
 # Olá, eu sou a Élen! 👋
 
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 🧪 **QA Engineer em formação / Analista de Qualidade de Software**  
 🎯 Focada em automação de testes, prevenção de bugs e garantia de qualidade de aplicações web.
 
@@ -9,6 +10,7 @@
 
 ## 📌 Sobre Mim
 
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**.
 - 🔭 Atualmente aplicando testes e qualidade em sistemas web (**React / Firebase**).
 - 🧪 Desenvolvendo suítes de **testes automatizados E2E** com **Playwright**.
 - 🔍 Praticando testes funcionais, identificação de regras de negócio e report de bugs.
@@ -16,11 +18,12 @@
 
 ---
 
-## 🌱 Foco de Estudos em QA
+## 🌱 Foco de Estudos em QA & TI
 
 - ⚡ **Automação E2E:** Aprofundando no **Playwright** com JavaScript.
 - 📋 **Gestão de Testes:** Criação de planos de teste, cenários, casos de teste e BDD (Gherkin).
 - 🌐 **Testes de API:** Validação de endpoints e requisições HTTP com **Postman**.
+- 🏗️ **Engenharia de Software:** Arquitetura, modelagem de dados e ciclo de vida do desenvolvimento.
 
 ---
 
@@ -44,9 +47,10 @@
   <img align="center" alt="Élen-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
 
+
 ---
 
 ## 📫 Vamos nos conectar!
 
-- 💼 [LinkedIn] (https://www.linkedin.com/in/elen-natali-t-r-da-silva-b02098132/)
+- 💼 LinkedIn https://www.linkedin.com/in/elen-natali-t-r-da-silva-b02098132/
 - 📧 Email: natalielen29@gmail.com
