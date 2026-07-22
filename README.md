@@ -1,35 +1,52 @@
-Hi!!💻🚀
- 
-Estudante de Análise e Desenvolvimento de Sistemas pela UNIFAEL, com interesse em Testes de Software (QA) e Garantia da Qualidade. Possuo perfil analítico, atenção aos detalhes, facilidade de aprendizado e comprometimento com a entrega de soluções de qualidade. Busco uma oportunidade para desenvolver minha carreira na área de QA, aplicando conhecimentos em testes manuais, validação de funcionalidades e identificação de bugs.
+# Olá, eu sou a Élen! 👋
 
+🧪 **QA Engineer em formação / Analista de Qualidade de Software**  
+🎯 Focada em automação de testes, prevenção de bugs e garantia de qualidade de aplicações web.
 
+📍 São Paulo, Brasil
 
-***"Toda Conquista começa com a decisão de tentar"***
-***"Todo conhecimento é bem vindo"!***
+---
 
+## 📌 Sobre Mim
+
+- 🔭 Atualmente aplicando testes e qualidade em sistemas web (**React / Firebase**).
+- 🧪 Desenvolvendo suítes de **testes automatizados E2E** com **Playwright**.
+- 🔍 Praticando testes funcionais, identificação de regras de negócio e report de bugs.
+- 💡 Apaixonada por encontrar cenários de borda e garantir a melhor experiência para o usuário final.
+
+---
+
+## 🌱 Foco de Estudos em QA
+
+- ⚡ **Automação E2E:** Aprofundando no **Playwright** com JavaScript.
+- 📋 **Gestão de Testes:** Criação de planos de teste, cenários, casos de teste e BDD (Gherkin).
+- 🌐 **Testes de API:** Validação de endpoints e requisições HTTP com **Postman**.
+
+---
+
+## 🛠️ Ferramentas & Tecnologias
+
+### 🧪 QA & Testes
 <div style="display: inline-block;">
-  <br>
-  <!-- Linguagens & Frontend base -->
-  <img align="center" alt="Élen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Élen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Élen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Élen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Élen-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-
-  <!-- Build tools & Backend/Cloud -->
-  <img align="center" alt="Élen-Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="Élen-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
-
-  <!-- Versionamento -->
-  <img align="center" alt="Élen-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Élen-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <!-- Testes & QA -->
   <img align="center" alt="Élen-Playwright" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg">
-  <img align="center" alt="Élen-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
   <img align="center" alt="Élen-Postman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
+### 💻 Desenvolvimento & Ecossistema Web
+<div style="display: inline-block;">
+  <img align="center" alt="Élen-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Élen-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Élen-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Élen-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Élen-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Élen-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Élen-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Élen-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
 
+---
+
+## 📫 Vamos nos conectar!
+
+- 💼 [LinkedIn] (https://www.linkedin.com/in/elen-natali-t-r-da-silva-b02098132/)
+- 📧 Email: natalielen29@gmail.com
